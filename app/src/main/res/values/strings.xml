@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SVG</string>
+
+    <string name="icon_canyin">&#xe644;</string>
+    <string name="icon_jingdian">&#xe645;</string>
+    <string name="icon_zhusu">&#xe646;</string>
+    <string name="icon_duanxin">&#xe647;</string>
+    <string name="icon_xinxi">&#xe649;</string>
+    <string name="icon_xiangqu">&#xe64c;</string>
+</resources>

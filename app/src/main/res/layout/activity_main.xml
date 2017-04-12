@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.yptian.svg.MainActivity">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_canyin" />
+    <TextView
+        android:id="@+id/tv2"
+        android:textColor="#ff0000"
+        android:textSize="15sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_jingdian" />
+    <TextView
+        android:id="@+id/tv3"
+        android:textColor="#00ff00"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_zhusu" />
+    <TextView
+        android:id="@+id/tv4"
+        android:textColor="#0000ff"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_duanxin" />
+    <TextView
+        android:id="@+id/tv5"
+        android:textColor="#338800"
+        android:textSize="24sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_xinxi" />
+    <TextView
+        android:id="@+id/tv6"
+        android:textColor="#661199"
+        android:textSize="27sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/icon_xiangqu" />
+</LinearLayout>
